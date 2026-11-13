@@ -2,7 +2,7 @@
 
 适用于 **macOS / FlClash v0.9.3** 的中文图文教程。通过「自定义配置」将现有机场订阅与 LinkStatic 静态 ISP 组成两跳代理，包含菜单截图、参数对照、拨号关系、出口验证及常见问题。
 
-**[阅读 / 下载 9 页 PDF](docs/flclash-linkstatic-guide.pdf)** · **[文件校验值](docs/SHA256SUMS)**
+**[下载 9 页 PDF](https://github.com/FIONN191/flclash-linkstatic-guide/releases/latest/download/flclash-linkstatic-guide.pdf)** · **[在线预览 PDF](docs/flclash-linkstatic-guide.pdf)** · **[文件校验值](docs/SHA256SUMS)**
 
 ```text
 你的 Mac → 机场节点（前置）→ LinkStatic 静态 ISP（落地）→ 目标网站
